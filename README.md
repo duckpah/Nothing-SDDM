@@ -2,6 +2,8 @@
 
 **NothingOS** is a clean, minimal desktop theme for **SDDM** (System Display Manager). Built with Qt 6 QML, it draws a soft black dot-grid canvas with a subtle orb, uses the **Doto** font for the clock, and renders the password pill as dots — giving a calm, modern look on Linux systems.
 
+![NothingOS SDDM theme preview](./assets/preview.png)
+
 ## Features
 
 - Minimal, dark-themed panel with a dot-grid canvas and subtle orb background
